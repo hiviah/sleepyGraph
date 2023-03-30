@@ -23,8 +23,10 @@ Only a few screenshots remained.
 
 ## Examples screenshots what you could discover when reviewing saved profile of a program
 
+### Basic graph example with cycles
 ![sample with cycles](screenshots/basic_screenshot.png)
 
-![actual large callgraph of large application (HDL modeling tool, Verilog/VHDL/MAST parser, designer](screenshots/large_graph_screenshot.png)
+### Actual large callgraph of large application (HDL modeling tool, Verilog/VHDL/MAST parser, designer)
+![actual large callgraph of large application (HDL modeling tool, Verilog/VHDL/MAST parser, designer)](screenshots/large_graph_screenshot.png)
 
 
