@@ -1,0 +1,27 @@
+# use glob syntax.
+syntax: glob
+
+# Ignore this ignore file and hgrc if present
+#
+.hgrc
+
+
+# Ignore Komodo project files
+*.kpf
+
+
+# Ignore compiled stuff
+*.pyc
+pygraphviz*
+pydot*
+
+# Ignore temporary stuff
+*.dot
+*.sleepy
+*.png
+IPcounts.txt
+symbols.txt
+callstacks.txt
+
+#vim files
+.*.swp
